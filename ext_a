@@ -1,5 +1,5 @@
 {
     "window_close":true,
-    "redirect":null,
+    "redirect":"https://google.com",
     "alert":null
 }
