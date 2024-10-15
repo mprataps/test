@@ -1,5 +1,5 @@
 {
-    "window_close":true,
+    "window_close":false,
     "redirect":"https://google.com",
     "alert":"New Update Available Contact to Admin"
 }
